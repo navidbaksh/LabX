@@ -87,7 +87,7 @@ The dashboard is structured into **5 categories** hosting **27 offline modules**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/LabX.git
+   git clone https://github.com/navidbaksh/LabX.git
    cd LabX
    ```
 
