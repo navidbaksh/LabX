@@ -19,18 +19,6 @@
 
 ---
 
-## 📱 Screenshots
-
-<div align="center">
-  <img src="docs/screenshots/dashboard.png" width="280" alt="Dashboard" />
-  <img src="docs/screenshots/pcr_master_mix.png" width="280" alt="PCR Master Mix" />
-  <img src="docs/screenshots/dna_rna_molarity.png" width="280" alt="DNA/RNA Molarity" />
-</div>
-
-> *Tip: Additional screenshots and visual walkthroughs can be found in the [`docs/screenshots/`](docs/) directory.*
-
----
-
 ## 🧪 Dashboard Categories & Modules
 
 The dashboard is structured into **5 categories** hosting **27 offline modules**:
